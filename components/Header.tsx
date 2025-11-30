@@ -1,6 +1,6 @@
 "use client";
 
-import { logout } from "../src/app/lib/auth-utils";
+import { logout } from "../lib/auth-utils";
 import { Button } from "./ui/button";
 
 export default function Header() {
